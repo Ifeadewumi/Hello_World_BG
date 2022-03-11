@@ -1,4 +1,8 @@
-REMIX EXAMPLE PROJECT
+BLOCKGAMES HELLO_WORLD
+
+A simple Hello World Solidity contract deployed to the Rinkeby test net.
+
+Check it out here: https://rinkeby.etherscan.io/address/0xAaAb618352BCCE45d7D2e22aEB2a77cD3C33B0e3
 
 Remix example project is present when Remix loads for the very first time or there are no files existing in the File Explorer. 
 It contains 3 directories:
