@@ -1,0 +1,72 @@
+{
+	"compiler": {
+		"version": "0.6.0+commit.26b70077"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"stateMutability": "nonpayable",
+				"type": "constructor"
+			},
+			{
+				"inputs": [],
+				"name": "first",
+				"outputs": [
+					{
+						"internalType": "uint256",
+						"name": "",
+						"type": "uint256"
+					}
+				],
+				"stateMutability": "pure",
+				"type": "function"
+			},
+			{
+				"inputs": [],
+				"name": "getValue",
+				"outputs": [
+					{
+						"internalType": "string",
+						"name": "",
+						"type": "string"
+					}
+				],
+				"stateMutability": "view",
+				"type": "function"
+			}
+		],
+		"devdoc": {
+			"methods": {}
+		},
+		"userdoc": {
+			"methods": {}
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"hello_world.sol": "Hello_World"
+		},
+		"evmVersion": "istanbul",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"hello_world.sol": {
+			"keccak256": "0x7e3512301b583c0e5ec718824b94c02dfeb546ec1519a1f64007658aac58335d",
+			"urls": [
+				"bzz-raw://7e720be55a3ad5debfb4e2315c7cd64a201e7b97d3240494347d5541a9355d79",
+				"dweb:/ipfs/QmUMYHFEosyWYothLaBodVPJmhiTocCegRDnt2eHKJngzV"
+			]
+		}
+	},
+	"version": 1
+}
